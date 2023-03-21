@@ -6,7 +6,7 @@ Software Test Architect based in London <br>
 ## 👩🏼‍💻 Engineering Experience
 
 ### Summary:
--	9+ years experience in Automation and Manual Testing on Web-based Applications-Cross **Browser**, **Android** and **IOS**, **API**
+-	Decade of experience in Automation and Manual Testing on Web-based Applications-Cross **Browser**, **Android** and **IOS**, **API**
 -	Writing automation test scripts in **java**, javaScript, python with **selenium web driver**, WDIO, **Junit**, TestNG, Nunit, pytest.
 -	Experience on **Agile-model**, **Scrum** and Waterfall models for testing the applications
 -	**ISTQB certified**; meticulous with a strong knowledge of all phases of **SDLC** and **STLC** and good knowledge of Software Testing (**Functional**, Buddy, Sanity, Smoke, **Integration**, **Security**, **Regression**, GUI Testing)
@@ -131,3 +131,26 @@ Achievement:
 
 - **_Technologies used:_** Rest Assured, Microservices(Docker), Android/ iOS Applications using Java, Selenium, Gherkin, cross-browser testing, Charles proxy, Fiddler, Cucumber, Jira, Postman and Jenkins, Cucumber.
   <br><br>
+
+## 💬 Languages
+
+🇬🇧 **English**: Fluent <br>
+🇮🇳 **Gujarati**: Native <br>
+🇮🇳 **Hindi**: Native <br>
+<br><br>
+
+## 👩🏼‍🎓 Education / Certifications
+
+1.	**Java 10** certified from Test automation university
+2.	Certified for BDD with pytest from Test automation university
+3.	Certified for Selenium with python from Test automation university
+4.	Certified for cypress from Test automation university
+5.	Certified for Mobile testing with Appium from LinkedIn learning
+6.	Certified for advanced Appium from LinkedIn learning
+7.	Certified for VPC networking (AWS) from LinkedIn learning
+8.	Certified for Gradle from LinkedIn learning
+9.	SEO (Search engine optimization) assessment for web
+10.	Selenium Docker grid setup to run a parallel test on AWS in docker 
+11. Stakeholder Engagement Best Practices of Fortune 500 Leaders - Certified from Udemy 
+12. Scaling test with docker – Certified from Test automation university
+13. Bachelor of Commerce from gujarat university 2003
