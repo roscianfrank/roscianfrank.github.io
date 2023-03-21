@@ -7,20 +7,20 @@ Software Test Architect based in London <br>
 
 ### Summary:
 -	9+ years experience in Automation and Manual Testing on Web-based Applications-Cross **Browser**, **Android** and **IOS**, **API**
--	Writing automation test scripts in **java**, javaScript, python with selenium web driver, WDIO, Junit, TestNG, Nunit, pytest.
--	Experience on Agile-model, Scrum and Waterfall models for testing the applications
--	ISTQB certified; meticulous with a strong knowledge of all phases of SDLC and STLC and good knowledge of Software Testing (Functional, Buddy, Sanity, Smoke, Integration, Security, Regression, GUI Testing)
+-	Writing automation test scripts in **java**, javaScript, python with **selenium web driver**, WDIO, **Junit**, TestNG, Nunit, pytest.
+-	Experience on **Agile-model**, **Scrum** and Waterfall models for testing the applications
+-	**ISTQB certified**; meticulous with a strong knowledge of all phases of **SDLC** and **STLC** and good knowledge of Software Testing (**Functional**, Buddy, Sanity, Smoke, **Integration**, **Security**, **Regression**, GUI Testing)
 -	Involved in all phases of the Software Testing Life Cycle and SDLC, and Strong working knowledge of Software Testing
--	Highly experienced in developing Manual Test Cases, Test Plans, Test Execution, using Defect Tracking, and Report Generation based on functional specifications
+-	Highly experienced in developing Manual Test Cases, Test Plans, Test Execution, using **Defect Tracking**, and **Report Generation** based on **functional specifications**
 -	Expertise Manual testing operations with Test Management Tools like Test rail.
--	Experience in using the defect-tracking tool JIRA, Bugzilla
--	Strong communication and interpersonal skills and maintain excellent working relationships with Stakeholders and Colleagues
+-	Experience in using the defect-tracking tool **JIRA**, Bugzilla
+-	Strong communication and interpersonal skills and maintain excellent working relationships with **Stakeholders** and **Colleagues**
 -	Multitasking & Inquisitive
 -	Ability to acquire new skills within short timescales, adapt to rapidly changing work practices and build
--	Created a framework for Android and IOS using appium, espresso, XCUItest and RestAssured(API testing) using cucumber JVM, page object model
--	Docker implementation for testing, Selenium Grid, Cross browser testing
--	Good knowledge of messaging service, Created an integration test for KAFKA
--	Knowledge of load testing, performance testing, security testing (Using Gatling gun, Jmeter, OWSAP tools)
+-	Created a framework for **Android** and **IOS** using **appium**, espresso, XCUItest and **RestAssured**(API testing) using **cucumber** JVM, page object model
+-	**Docker** implementation for testing, **Selenium Grid**, **Cross browser testing**
+-	Good knowledge of messaging service, Created an integration test for **KAFKA**
+-	Knowledge of load testing, performance testing, security testing (Using **Gatling gun, Jmeter, OWSAP tools**)
 
 
 **Test Architect** @ [GlobalLogic](https://www.globallogic.com/uk/) _(Aug 2021 - Present)_ <br>
@@ -36,34 +36,34 @@ Achievement:
 1.	Stakeholder Engagement Best Practices of Fortune 500 Leaders - Certified from Udemy
 2.	Scaling test with docker – Certified from Test automation university
 
-- **_Technologies used:_** TypeScript, WDIO, Cucumber, CV code, node.
+- **_Technologies used:_** TypeScript, WDIO, Cucumber, node.
   <br><br>
 
 **Lead SDET** @ [The Collective](https://thecollective.com/) _(Mar 2019 - Aug 2021)_ <br>
 Started as contract Mar 2019 to Mar 2020
 Permanent Mar 2020 to Aug 2021
 - Implemented testing process from the scratch (Manual and Automated)
-- Worked on POCs for tool selection (Gitlab, Circle-CI, Tavern, Cypress, Nightwatch, service monitoring, rest assured)
-- Created Automation framework for API/ Web/ Android/ iOS App from scratch (in JAVA, Python (Tavern), JS (Cypress, Nightwatch))
+- Worked on POCs for tool selection (Gitlab, Circle-CI, Tavern, **Cypress, Nightwatch**, service monitoring, rest assured)
+- Created Automation framework for API/ Web/ Android/ iOS App from scratch (in **JAVA**, Python (Tavern), JS (Cypress, Nightwatch))
 - Automated Testing of Web Application /Android /IOS app-JAVA, using selenium web-driver, Appium, XCUI test
-- Automated Visual testing using Applitools eyes
-- Automated testing of API using Rest Assured (Created a framework from the scratch)
-- Microservices testing
+- Automated Visual testing using **Applitools** eyes
+- Automated testing of API using **Rest Assured** (Created a framework from the scratch)
+- **Microservices testing**
 - Scripting automation test cases in java, python, JS
-- Testing UI Functional and API using Cucumber-JVM (BDD framework, Postman)
-- Created automated scripts for cross-browser testing using tools such as Browser-stack, Lambda test
+- Testing UI Functional and API using **Cucumber-JVM (BDD framework, Postman)**
+- Created automated scripts for cross-browser testing using tools such as **Browser-stack, Lambda test**
 - Built automation test project using Maven and set it up against Circle-CI and migrated to GitLab and now with GOCD
 - Experience using JIRA/Confluence project management tool
-- Used Gatling Gun/Jmeter for performance testing
-- OWASP for security testing
-- Implementation of Web Crawler for public website.
-- Done Performance testing, Security testing, Load testing for web
-- SEO (Search engine optimization) assessment for web
+- Used **Gatling Gun/Jmeter** for performance testing
+- **OWASP** for security testing
+- Implementation of **Web Crawler** for public website.
+- Done **Performance testing, Security testing, Load testing** for web
+- **SEO** (Search engine optimization) assessment for web
 - Performance testing for API (50 requests per second)
-- Created a dashboard using docker for CI monitoring
+- Created a dashboard using **docker** for **CI monitoring**
 
 Achievement:
-1.	Java 10 certified from Test automation university
+1.	**Java 10** certified from Test automation university
 2.	Certified for BDD with pytest from Test automation university
 3.	Certified for Selenium with python from Test automation university
 4.	Certified for cypress from Test automation university
