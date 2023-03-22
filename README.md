@@ -8,12 +8,13 @@ Software Test Architect based in London <br>
 ### Summary:
 -	Decade of experience in Automation and Manual Testing on Web-based Applications-Cross **Browser**, **Android** and **IOS**, **API**
 -	Writing automation test scripts in **java**, javaScript, python with **selenium web driver**, WDIO, **Junit**, TestNG, Nunit, pytest.
--	Experience on **Agile-model**, **Scrum** and Waterfall models for testing the applications
--	**ISTQB certified**; meticulous with a strong knowledge of all phases of **SDLC** and **STLC** and good knowledge of Software Testing (**Functional**, Buddy, Sanity, Smoke, **Integration**, **Security**, **Regression**, GUI Testing)
+-	Expertise on **Agile-model**, **Scrum** and Waterfall models for testing the applications
+-	**ISTQB certified**; meticulous with a strong knowledge of all phases of **SDLC** and **STLC**, 
+-   Expertise in software Testing (**Functional**, Buddy, Sanity, Smoke, **Integration**, **Security**, **Regression**, GUI Testing)
 -	Involved in all phases of the Software Testing Life Cycle and SDLC, and Strong working knowledge of Software Testing
 -	Highly experienced in developing Manual Test Cases, Test Plans, Test Execution, using **Defect Tracking**, and **Report Generation** based on **functional specifications**
 -	Expertise Manual testing operations with Test Management Tools like Test rail.
--	Experience in using the defect-tracking tool **JIRA**, Bugzilla
+-	Expertise in using the defect-tracking tool **JIRA**, Bugzilla
 -	Strong communication and interpersonal skills and maintain excellent working relationships with **Stakeholders** and **Colleagues**
 -	Multitasking & Inquisitive
 -	Ability to acquire new skills within short timescales, adapt to rapidly changing work practices and build
@@ -26,8 +27,8 @@ Software Test Architect based in London <br>
 **Test Architect** @ [GlobalLogic](https://www.globallogic.com/uk/) _(Aug 2021 - Present)_ <br>
 -	Worked for the client BP.
 -	BPme Mobile app is live in 4 regions UK, NL, Australia, US (petrol station app)
--	Type script with WDIO and BDD
--	Android and iOS mobile bug fixing and automating new stories
+-	Type script with [WDIO](https://webdriver.io/) and [BDD](https://cucumber.io/docs/bdd/)
+-	Android and iOS mobile automation bug fixing and automating new stories
 -	Enhancement to existing type script framework
 -	Pipeline maintenance on Azure DevOps
 -	Performing Agile rituals – stand-ups, Test Planning, story grooming, Retro etc.
