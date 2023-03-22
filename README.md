@@ -1,14 +1,14 @@
 # Roscian Frank
 Software Test Architect based in London <br>
 
-[Email](mailto:roscian.frank@gmail.com) / [LinkedIn](https://www.linkedin.com/in/roscian-frank-a57848b9/) / [GitHub](https://github.com/roscianfrank))
+([Email](mailto:roscian.frank@gmail.com) / [LinkedIn](https://www.linkedin.com/in/roscian-frank-a57848b9/) / [GitHub](https://github.com/roscianfrank))
 
 ## 👩🏼‍💻 Engineering Experience
 
 ### Summary:
 -	Decade of experience in Automation and Manual Testing on Web-based Applications-Cross **Browser**, **Android** and **IOS**, **API**
 -	Writing automation test scripts in **java**, javaScript, python with **selenium web driver**, WDIO, **Junit**, TestNG, Nunit, pytest.
--	Expertise on **Agile-model**, **Scrum** and Waterfall models for testing the applications
+-	Expertise on **Agile**, **Scrum** and Waterfall models for testing the applications
 -	**ISTQB certified**; meticulous with a strong knowledge of all phases of **SDLC** and **STLC**, 
 -   Expertise in software Testing (**Functional**, Buddy, Sanity, Smoke, **Integration**, **Security**, **Regression**, GUI Testing)
 -	Involved in all phases of the Software Testing Life Cycle and SDLC, and Strong working knowledge of Software Testing
