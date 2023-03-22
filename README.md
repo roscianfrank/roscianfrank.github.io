@@ -34,8 +34,8 @@ Software Test Architect based in London <br>
 -	Performing Agile rituals – stand-ups, Test Planning, story grooming, Retro etc.
 -	Aid in the development of a strategy to mentor and upskill our delivery consultants.
 -	Develop a strategy and rollout plan for new services, tools, or partnerships.
--	Define, implement, publish, and maintain testing standards for Inspired Testing.
--	Testing standards and practices in place to support our professional services.
+-	Define, implement, publish, and maintain testing standards.
+-	Review testing standards and practices in place.
 -	Reviewing all proposals (of your team) and ensuring its quality and adherence to standards
 -	Implementing suitable measurement systems and associated performance management processes
 -	Managing and recruiting the people in the team
