@@ -133,6 +133,36 @@ Achievement:
 - **_Technologies used:_** Rest Assured, Microservices(Docker), Android/ iOS Applications using Java, Selenium, Gherkin, cross-browser testing, Charles proxy, Fiddler, Cucumber, Jira, Postman and Jenkins, Cucumber.
   <br><br>
 
+**QA Engineer** (Freelancer) _(june 2013 - Dec 2015)_ <br>
+
+Involved in testing the E-Commerce web applications and company's websites developed using the following technologies: ASP, Java, J2EE, XHTML, HTML, Flash, CSS, JavaScript. Involved in the writing and execution of test cases. Exposure to GUI testing, functional testing, integration testing, usability testing, exploratory testing and compatibility testing. Raising the defects with priority basis using company's bug tracking tool. Performing confirmation and regression testing after each new cycle.
+
+Project AccuWeather
+Project Description: Weather Website for the worldwide User
+Web		: http://www.accuweather.com/
+Role		: Test Engineer
+Testing	: Cross-browser (Grid 2), Cross Platforms, TestNG, GUI Testing, Function Testing, UAT, Regression, IOS and Android.
+
+Project Quorn
+Project Description: E-commerce website Quorn products are made from Mycoprotein. Mycoprotein is a nutritionally healthy protein source that is meat free and naturally low in saturated fat and high in fibre. Quorn products have the taste, appearance and texture of meat, perfect if you want meat-free meals or are thinking of creating healthier versions of your favourite everyday meals.
+Web 		: http://www.quorn.co.uk
+Role 		: Test Engineer
+Testing 	: Cross browser (Grid 2), TestNG, GUI Testing, Function Testing, Regression.
+
+Project Cadbury
+Project description: E-commerce website cadbury launch a new product with the competition for the users. New Idea for creating Chocolate and may newer feature.
+Web 		: www.cadbury.co.uk
+Role 		: Test Analyst
+Testing 		: GUI, Functional (Selenium Web Driver), Regression, JUnit.
+
+Achievement:
+1.	Integration with cross-browser testing (Cloud testing)
+2.	Create a framework for Android /iOS (Appium/ JVM)
+3.	Created a framework for API testing (Rest Assured)
+4.	Implementation of cucumber JVM reports, XSLT reports, Extent reports.
+5.	Work on multiple projects at a time.
+
+
 ## 💬 Languages
 
 🇬🇧 **English**: Fluent <br>
