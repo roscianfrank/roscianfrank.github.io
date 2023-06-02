@@ -23,8 +23,10 @@ Software Test Architect based in London <br>
 -	Good knowledge of messaging service, Created an integration test for **KAFKA**
 -	Knowledge of load testing, performance testing, security testing (Using **Gatling gun, Jmeter, OWSAP tools**)
 
+**Test Manager** @ [Roscian Consultancy Ltd](https://github.com/roscianfrank/roscianfrank.github.io) _(May 2023 - Present)_ <br>
+- Implemented testing process from the scratch (Manual and Automated)
 
-**Test Architect** @ [GlobalLogic](https://www.globallogic.com/uk/) _(Aug 2021 - Present)_ <br>
+**Test Architect** @ [GlobalLogic](https://www.globallogic.com/uk/) _(Aug 2021 - Apr 2023)_ <br>
 -	Worked for the client BP.
 -	BPme Mobile app is live in 4 regions UK, NL, Australia, US (petrol station app)
 -	Type script with [WDIO](https://webdriver.io/) and [BDD](https://cucumber.io/docs/bdd/)
