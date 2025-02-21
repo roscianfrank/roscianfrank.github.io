@@ -23,8 +23,29 @@ Software Test Architect based in London <br>
 -	Good knowledge of messaging service, Created an integration test for **KAFKA**
 -	Knowledge of load testing, performance testing, security testing (Using **Gatling gun, Jmeter, OWSAP tools**)
 
-**Test Manager** @ [Roscian Consultancy Ltd](https://github.com/roscianfrank/roscianfrank.github.io) _(May 2023 - Present)_ <br>
-- Implemented testing process from the scratch (Manual and Automated)
+**Test Lead** @ [Microsoft](https://www.microsoft.com/en-gb) _(June 2024 - Dec 2024)_ <br>
+Client: London stock exchange group (LSEG)
+Domain: Finance
+
+1. Establishment of a Company-Wide Test Strategy Developed and implemented a cohesive test strategy across LSEG to standardize and streamline testing practices.
+2. Creation of a Custom Playwright Framework in Java Built a robust Playwright testing framework from scratch, a task that previous QA and Tech Leads had been unable to complete successfully.
+3. Prioritization of Automated Testing Focused on delivering automated test cases as a primary approach to testing, creating the highest volume of automated tests within the team.
+4. Enhancement of Coding Standards Adhered to existing coding standards and introduced enhancements to make code structure more accessible and understandable for team members.
+5. QA Guidance and Support Worked closely with other QA team members (Team of 9 QA) to guide and support them in setting up their own team standards, fostering a more consistent and efficient testing approach.
+6. Leadership in Software Release Process Led the software release process, ensuring each release met stringent quality standards and adhered to defined timelines.
+7. Requirement Gathering and Communication Organized and facilitated requirement gathering meetings, actively collaborating with stakeholders to clarify and finalize requirements.
+8. Setting Up Testing and Release Standards Established standards and processes for testing and releases, contributing to a more structured and reliable workflow.
+9. Management of QA Community of Practice Launched and managed a company-wide QA community of practice, promoting knowledge sharing and continuous improvement across teams.
+10. Reporting QA Status to Key Stakeholders Provided regular QA updates to key stakeholders and senior management, offering transparency into QA progress and ensuring alignment with business objectives.
+
+
+**Test Manager** @ [Roscian Consultancy Ltd](https://github.com/roscianfrank/roscianfrank.github.io) _(May 2023 - June 2024)_ <br>
+Client: Azule Energy (Angola)
+- Implemented testing process for the Azule energy.
+- Defined the test plan, test strategy and test process.
+- Defined reporting and setting up ADO.
+- Following agile process for day-to-day activity.
+- Tracking bugs and build cycle on ADO.
 
 **Test Architect** @ [GlobalLogic](https://www.globallogic.com/uk/) _(Aug 2021 - Apr 2023)_ <br>
 -	Worked for the client BP.
